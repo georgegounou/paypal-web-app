@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.144.255:8081/repository/BOA--web-app_Snapshot/</url>
+	      <url>http://3.88.144.255:8081/repository/BOA--web-app_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
